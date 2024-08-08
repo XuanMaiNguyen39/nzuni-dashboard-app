@@ -1,0 +1,1 @@
+web: gunicorn --chdir Analytics-Dashboard --pythonpath Analytics-Dashboard Dashboard:server --preload --timeout 30 --workers 2

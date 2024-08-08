@@ -1,0 +1,60 @@
+img[src*="#my-image"] {
+    
+    width: 400px;
+    height: 680px;
+  }
+
+img[src*="#my-image2"] {
+    
+    width: 300px;
+    height: 500px;
+  }
+  img[src*="#my-image3"] {
+
+    width: 300px;
+    height: 500px;
+  }
+
+  img[src*="#my-image4"] {
+   
+    width: 300px;
+    height: 500px;
+  }
+
+  img[src*="#my-image5"] {
+    
+    width: 300px;
+    height: 500px;
+  }
+
+  img[src*="#my-image6"] {
+    
+    width: 300px;
+    height: 500px;
+  }
+  img[src*="#my-image7"] {
+    
+    width: 300px;
+    height: 500px;
+  }
+  img[src*="#my-image8"] {
+    width: 300px;
+    height: 500px;
+  }
+  img[src*="#my-image9"] {
+    width: 300px;
+    height: 500px;
+  }
+
+/* styles.css */
+.text-line-height {
+  line-height: 1.6;
+}
+
+img[src*="#icon"] {
+  /* filter: var(--inverse-color); */
+  width: 50px;
+  height: 50px;
+}
+
+
